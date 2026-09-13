@@ -1,4 +1,0 @@
-Scenario - 
-> Massive research project | Team of Analysts | I am the coordinator and let's say analysts are subagents 
-If we ask to pass on Sub-Agent1 findings to Sub-Agent2  then 1 won't understand what to pass context to 2. We already know coordinator is supposed to pass context because by default individual subagents starts with scratch.
-
